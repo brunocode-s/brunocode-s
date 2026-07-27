@@ -1,12 +1,11 @@
-# Hi 👋, I'm Alain Bruno
+# Hi, I'm Alain Bruno
 
-### A passionate Frontend Developer building real products from Nigeria 🇳🇬
+### A Frontend Developer building real products from Nigeria
 
 <br/>
 
 -  Final year **Computer Science** student at **FUOYE**
 -  Currently interning as a **Frontend Developer** at **DigitalFigures**
--  Building **AutoBase** — a tech-powered auto shop platform
 -  Currently deepening my skills in **React**, **TypeScript** & **Full Stack Development**
 -  Ask me about **React, JavaScript, .NET MAUI, Python**
 -  Reach me at **alainbrunoofficial@gmail.com**
